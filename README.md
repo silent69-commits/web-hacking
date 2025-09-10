@@ -19,8 +19,9 @@ telegram = @silent_mimi
 
 
 
-<img width="1024" height="768" alt="mimi" src="https://github.com/user-attachments/assets/5f67825a-7ad1-46f6-9adc-da06b9f34884" />
 
+
+<img width="720" height="480" alt="Shot 0003" src="https://github.com/user-attachments/assets/bba12e67-9154-4703-bb48-bdf71334a57e" />
 
 
 
