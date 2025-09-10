@@ -8,8 +8,8 @@ pkg install python
 pkg install git
 pip install requests
 pip install bs4
-https://github.com/silent69-commits/web-hacking.git
-cd Admin-Finder
+git clone https://github.com/silent69-commits/web-hacking.git
+cd web-hacking
 python Admin-Finder.py
 ```
 
