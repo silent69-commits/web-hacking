@@ -8,7 +8,7 @@ pkg install python
 pkg install git
 pip install requests
 pip install bs4
-git clone https://github.com/silent69-commits/admin-finder.git
+git clone https://github.com/silent-mimi/admin-finder.git
 cd admin-finder
 python Admin-Finder.py
 ```
